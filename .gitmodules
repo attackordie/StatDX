@@ -1,0 +1,6 @@
+[submodule "company-tools"]
+	path = company-tools
+	url = https://github.com/Tap2X/company-tools.git
+[submodule "textgrad"]
+	path = textgrad
+	url = https://github.com/zou-group/textgrad.git
