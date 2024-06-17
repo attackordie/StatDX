@@ -4,3 +4,4 @@
 [submodule "textgrad"]
 	path = textgrad
 	url = https://github.com/zou-group/textgrad.git
+	ignore = dirty
